@@ -404,6 +404,12 @@
             "link": "https://www.youtube.com/watch?v=VV7DnBn6B1c&ab_channel=GDFayo",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "DenyZr",
+            "link": "https://youtu.be/VA-3uTP8xho",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

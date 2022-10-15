@@ -300,6 +300,12 @@
             "link": "https://www.youtube.com/watch?v=wzo8A8XUt-g&t=1s",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "HeartLess",
+            "link": "https://youtu.be/H6nebbrC0Q0",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

@@ -320,6 +320,18 @@
             "link": "https://www.youtube.com/watch?v=_Jp1Sh7cQ90",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Reno",
+            "link": "https://www.youtube.com/watch?v=oywQ1TjYkeQ",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Tuoyu",
+            "link": "https://youtu.be/MLp37E0Lq8Q",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
