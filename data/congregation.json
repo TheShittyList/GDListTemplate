@@ -316,6 +316,13 @@
             "link": "https://www.youtube.com/watch?v=3fn8HZYnoYo",
             "percent": 60,
             "hz": 120
+        },
+        {
+            "user": "JuanXander★",
+            "link": "https://youtu.be/73vdmZt10HA",
+            "percent": 100,
+            "hz": 60,
+            "mobile":true
         }
     ]
 }
