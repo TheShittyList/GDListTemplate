@@ -6,5 +6,12 @@
     "verifier": "Ryoui",
     "verification": "https://youtu.be/8acljkSdbdM",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Riptide",
+            "link": "https://www.youtube.com/watch?v=muOS0yTdFK0",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
 }
