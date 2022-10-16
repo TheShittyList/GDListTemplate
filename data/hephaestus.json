@@ -8,6 +8,12 @@
     "percentToQualify": 100,
     "records": [
         {
+            "user": "Microwaveee",
+            "link": "https://www.youtube.com/watch?v=lYMua3PygxE",
+            "percent": 100,
+            "hz": "144"
+        },
+        {
             "user": "Riptide",
             "link": "https://www.youtube.com/watch?v=muOS0yTdFK0",
             "percent": 100,
