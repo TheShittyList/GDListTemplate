@@ -209,12 +209,19 @@
             "link": "https://youtu.be/PvdRVAbdNAI",
             "percent": 100,
             "hz": 360
+
+        },
+        {
+            "user": "kyselo",
+            "link": "https://www.youtube.com/watch?v=qucIt3g6KOs",
+            "percent": 96,
+            "hz": 360
         },
         {
             "user": "SuperThiago1234",
             "link": "https://youtu.be/Q6BtU7t9ua4",
             "percent": 97,
             "hz": 360
-        }
+       }
     ]
 }
