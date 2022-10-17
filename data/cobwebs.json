@@ -283,6 +283,12 @@
             "link": "https://www.youtube.com/watch?v=epSsv0N2gnY",
             "percent": 100,
             "hz": 360
-        }  
+        },
+        {
+            "user": "iRaily",
+            "link": "https://youtu.be/JaAQoGJ_35Y",
+            "percent": 100,
+            "hz": 288
+        }
     ]
 }
