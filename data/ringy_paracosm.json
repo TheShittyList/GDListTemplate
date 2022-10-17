@@ -6,12 +6,5 @@
     "verifier": "ghosting",
     "verification": "https://youtu.be/5jdTf6gfMmI",
     "percentToQualify": 58,
-    "records": [
-        {
-            "user": "HeartLess",
-            "link": "https://youtu.be/iIgvC9cIezI",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+    "records": []
 }
