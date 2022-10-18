@@ -289,6 +289,12 @@
             "link": "https://www.youtube.com/watch?v=F1JWhVmNBbE&t=13s",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Fluo",
+            "link": "https://www.youtube.com/watch?v=slZMci2RBmU",
+            "percent": 100,
+            "hz": 288
         }
     ]
 }
