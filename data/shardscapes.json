@@ -6,5 +6,12 @@
     "verifier": "KylashTheKiller",
     "verification": "https://youtu.be/T2E3llNdrtM",
     "percentToQualify": 61,
-    "records": []
+    "records": [
+    {
+    "user": "ElBrocasYT",
+    "link": "https://www.youtube.com/watch?v=IYeTcyT-0s4",
+    "percent": 100,
+    "hz": "60"
+},
+    ]
 }
