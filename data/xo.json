@@ -627,6 +627,12 @@
             "link": "https://www.youtube.com/watch?v=P0ctN9hi4YM",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Pluntix",
+            "link": "https://youtu.be/MyM4pa09re4",
+            "percent": 83,
+            "hz": 360
         }
     ]
 }

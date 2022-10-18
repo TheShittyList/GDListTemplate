@@ -209,6 +209,12 @@
             "link": "https://www.youtube.com/watch?v=MMhivaeLBhQ",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Flan",
+            "link": "https://www.youtube.com/watch?v=gt-9R6I24UA",
+            "percent": 71,
+            "hz": 240
         }
     ]
 }
