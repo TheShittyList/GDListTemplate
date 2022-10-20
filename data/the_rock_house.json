@@ -255,6 +255,12 @@
             "link": "https://www.youtube.com/watch?v=DhIXd1MLTd8",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "IKuster",
+            "link": "https://youtu.be/mDu6OS60ut0",
+            "percent": 100,
+            "hz": 300
         }
     ]
 }
