@@ -462,6 +462,18 @@
             "link": "https://youtu.be/ay9KZMsGFc4",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "Romafire",
+            "link": "https://www.youtube.com/watch?v=bCpXicRXOi8&t=21s",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "mist3red",
+            "link": "https://youtu.be/nBy-0r7RvRA",
+            "percent": 100,
+            "hz": 225
         }
     ]
 }

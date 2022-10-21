@@ -120,6 +120,18 @@
             "link": "https://youtu.be/UNeWc1ifdZA",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "sodaman",
+            "link": "https://www.youtube.com/watch?v=2qDStLL-I7E",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jonah",
+            "link": "https://youtu.be/AVf9nnaTqLY",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

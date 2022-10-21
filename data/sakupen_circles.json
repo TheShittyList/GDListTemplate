@@ -756,6 +756,12 @@
             "link": "https://www.youtube.com/watch?v=Qns9vpFQJpU",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "JoshBony24",
+            "link": "https://youtu.be/phdF8Te23Eo",
+            "percent": 59,
+            "hz": 240
         }
     ]
 }

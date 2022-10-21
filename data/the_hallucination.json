@@ -100,6 +100,18 @@
             "link": "https://www.youtube.com/watch?v=uYgGXVnijvc",
             "percent": 76,
             "hz": 360
+        },
+        {
+            "user": "IKuster",
+            "link": "https://youtu.be/bWEEnLrrJoU",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Kenos Song",
+            "link": "https://youtu.be/tjALsnl88u0",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
