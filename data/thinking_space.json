@@ -24,6 +24,12 @@
             "link": "https://youtu.be/fZzaRXDrStA",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "FuPlug",
+            "link": "https://www.youtube.com/watch?v=QmiYD46K3ZA",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
