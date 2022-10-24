@@ -10,7 +10,7 @@
         {
             "user": "Dandy Chiggins",
             "link": "https://youtu.be/6oFSel2z6oc",
-            "progress": "100",
+            "progress": 100,
             "hz": 360
         }
     ]

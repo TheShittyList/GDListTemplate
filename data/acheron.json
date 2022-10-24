@@ -492,6 +492,12 @@
             "link": "https://youtu.be/hC37Tfwjs6w",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "GD Fayo",
+            "link": "https://www.youtube.com/watch?v=jG3_8s1kYRs&ab_channel=GDFayo",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
