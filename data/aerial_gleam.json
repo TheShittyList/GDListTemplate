@@ -114,6 +114,18 @@
             "link": "https://www.youtube.com/watch?v=Otm3WbUVeEg",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "IKuster",
+            "link": "https://youtu.be/jz-oGHO4tJw",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Vicrf",
+            "link": "https://youtu.be/-i2GSc5PIeE",
+            "percent": 100,
+            "hz": 288
         }
     ]
 }

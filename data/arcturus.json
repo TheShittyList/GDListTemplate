@@ -6,5 +6,12 @@
     "verifier": "belowkelvin0",
     "verification": "https://youtu.be/sncK3CqmYAo",
     "percentToQualify": 57,
-    "records": []
+    "records": [
+        {
+            "user": "Dandy Chiggins",
+            "link": "https://youtu.be/6oFSel2z6oc",
+            "progress": "100",
+            "hz": 360
+        }
+    ]
 }

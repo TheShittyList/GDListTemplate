@@ -216,6 +216,12 @@
             "link": "https://www.youtube.com/watch?v=J7i-ml0Xf6s",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "bnuuy",
+            "link": "https://www.youtube.com/watch?v=uovaD2VyDi8&t=2s",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

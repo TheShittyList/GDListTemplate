@@ -105,6 +105,13 @@
             "link": "https://www.youtube.com/watch?v=PXlkOoBkWUE",
             "percent": 100,
             "hz": 330
+        },
+        {
+            "user": "AzielGD",
+            "link": "https://youtu.be/7RvRZaOT3RM",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }
