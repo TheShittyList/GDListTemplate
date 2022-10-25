@@ -471,7 +471,7 @@
         },
         {
             "user": "mist3red",
-            "link": "https://youtu.be/nBy-0r7RvRA",
+            "link": "https://youtu.be/D-ygfBA2Vtk",
             "percent": 100,
             "hz": 225
         },
@@ -488,7 +488,7 @@
             "hz": 360
         },
         {
-            "user": "Topia",
+            "user": "SpaceGaelic",
             "link": "https://youtu.be/hC37Tfwjs6w",
             "percent": 100,
             "hz": 144
@@ -520,6 +520,18 @@
         {
             "user": "xFactor",
             "link": "https://youtu.be/rBAncfCo_zc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Villa",
+            "link": "https://www.youtube.com/watch?v=O0qEU-hvS8s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Nova",
+            "link": "https://www.youtube.com/watch?v=h6_dp12gWdk",
             "percent": 100,
             "hz": 360
         }

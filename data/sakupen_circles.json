@@ -774,6 +774,12 @@
             "link": "https://www.youtube.com/watch?v=N3p-DLpB7KM",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "ianyeric",
+            "link": "https://youtu.be/sArgWmGrMHE",
+            "percent": 66,
+            "hz": 144
         }
     ]
 }
