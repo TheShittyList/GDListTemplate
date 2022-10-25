@@ -208,6 +208,12 @@
             "link": "https://www.youtube.com/watch?v=yf8h0mU4tVw",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "Socks",
+            "link": "https://youtu.be/3D8n42c7S1E",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
