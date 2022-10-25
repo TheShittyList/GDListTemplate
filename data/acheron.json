@@ -510,6 +510,18 @@
             "link": "https://www.youtube.com/watch?v=Mo5x_rOyjzM",
             "percent": 100,
             "hz": 288
+        },
+         {
+            "user": "Wyatt_GD",
+            "link": "https://www.youtube.com/watch?v=c7lymMqjYRw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "xFactor",
+            "link": "https://youtu.be/rBAncfCo_zc",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
