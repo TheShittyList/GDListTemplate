@@ -6,5 +6,12 @@
     "verifier": "skeeb",
     "verification": "https://youtu.be/r0S_wqiYhqI",
     "percentToQualify": 61,
-    "records": []
+    "records": [
+        {
+            "user": "KylashTheKiller",
+            "link": "https://www.youtube.com/watch?v=dAgirzVIdqE",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
 }
