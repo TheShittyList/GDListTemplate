@@ -45,9 +45,14 @@
         "link": "https://www.youtube.com/channel/UCtPsZ68MCked5rgimzzX7Hw"
     },
     {
-        "role": "trial",
+        "role": "helper",
         "name": "ThinCrust",
         "link": "https://www.youtube.com/channel/UCW0SgOGd9y6yHk5buJ81JfQ"
+    },
+    {
+        "role": "trial",
+        "name": "RevueGD",
+        "link": "https://youtube.com/channel/UCJBj9w-cQyvJILDrONKd75g"
     },
     {
         "role": "trial",
