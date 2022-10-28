@@ -6,5 +6,12 @@
     "verifier": "Kobra456",
     "verification": "https://www.youtube.com/watch?v=rrnODW1O_lY",
     "percentToQualify": 57,
-    "records": []
+    "records": [
+        {
+        "user": "bnuuy",
+        "link": "https://www.youtube.com/watch?v=a1mnBEP02NI",
+        "percent": 100,
+        "hz": 360
+        }
+    ]
 }
