@@ -1221,6 +1221,12 @@
             "link": "https://www.youtube.com/watch?v=2AMphGhQxWE",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "TechJaden",
+            "link": "https://www.youtube.com/watch?v=d6AW7LgUwOU",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

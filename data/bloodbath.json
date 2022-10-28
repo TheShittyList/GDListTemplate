@@ -446,6 +446,18 @@
             "link": "https://youtu.be/m-D4xIalnF8",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Anthanas",
+            "link": "https://www.youtube.com/watch?v=N1QgkovxKGQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Dylinator",
+            "link": "https://www.youtube.com/watch?v=bTn3wsEuXoQ",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
