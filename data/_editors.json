@@ -50,14 +50,19 @@
         "link": "https://www.youtube.com/channel/UCW0SgOGd9y6yHk5buJ81JfQ"
     },
     {
+        "role": "helper",
+        "name": "Prometheus",
+        "link": "https://www.youtube.com/c/PrometheusAlt"
+    },
+    {
         "role": "trial",
         "name": "RevueGD",
         "link": "https://youtube.com/channel/UCJBj9w-cQyvJILDrONKd75g"
     },
     {
         "role": "trial",
-        "name": "Prometheus",
-        "link": "https://www.youtube.com/c/PrometheusAlt"
+        "name": "snickles",
+        "link": "https://www.youtube.com/channel/UCkwR22BGmJU1CVPPBo7ES0A"
     },
     {
         "role": "dev",
