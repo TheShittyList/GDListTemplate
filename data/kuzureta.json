@@ -1247,6 +1247,12 @@
             "link": "https://youtu.be/ypQYHx0AJSw",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "werons",
+            "link": "https://www.youtube.com/watch?v=dXPuTk-JgUE",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
