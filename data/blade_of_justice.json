@@ -235,6 +235,12 @@
             "link": "https://youtu.be/DmIPoZuq92w",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "mooneks",
+            "link": "https://www.youtube.com/watch?v=Z9ruSCpKHIo",
+            "percent": 65,
+            "hz": 120
         }
     ]
 }
