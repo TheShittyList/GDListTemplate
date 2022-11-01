@@ -1136,6 +1136,13 @@
             "link": "https://www.youtube.com/watch?v=fVG0i4hFFF8",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Kucouski",
+            "link": "https://www.youtube.com/watch?v=FdLYEouQAck",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }

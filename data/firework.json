@@ -1227,6 +1227,12 @@
             "link": "https://www.youtube.com/watch?v=d6AW7LgUwOU",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Physion",
+            "link": "https://www.youtube.com/watch?v=tlf2zZlaoRw",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

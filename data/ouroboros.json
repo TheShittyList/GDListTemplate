@@ -79,6 +79,12 @@
             "link": "https://www.youtube.com/watch?v=GlWKn5Q2GcE",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Klöstflow",
+            "link": "https://youtu.be/0fyqFKJwtVY",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
