@@ -630,6 +630,18 @@
             "link": "https://youtu.be/F73E28Kf96s",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "TimsTeamYTgd",
+            "link": "https://www.youtube.com/watch?v=NthgDQeyqTw",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "snickles",
+            "link": "https://www.youtube.com/watch?v=7CsQOupODW8",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
