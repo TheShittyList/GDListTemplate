@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/1O-mPiB4d-A",
     "percentToQualify": 65,
     "password": "Free to Copy",
-    "records": []
+    "records": [
+        {
+            "user": "Dandy Chiggins",
+            "link": "https://youtu.be/xxVMqmhe6tg",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
