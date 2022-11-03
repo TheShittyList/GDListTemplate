@@ -86,7 +86,7 @@ Can i submit Multiple levels on 1 video?
 
 ## List Helpers:
 
-- KylashTheKiller the billed man who keeps billing everytime
+- KylashTheKiller
 - Achlys
 - homegrowntag
 - asmallsock
