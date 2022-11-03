@@ -648,6 +648,12 @@
             "link": "https://www.youtube.com/watch?v=aPHEWQKRucM",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Sismosis",
+            "link": "https://youtu.be/LxDhwwBfPwE",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
