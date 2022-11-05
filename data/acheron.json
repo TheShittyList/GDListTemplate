@@ -654,7 +654,6 @@
             "link": "https://youtu.be/LxDhwwBfPwE",
             "percent": 100,
             "hz": 240
-<<<<<<< HEAD
         },
         {
             "user": "TechJaden",
@@ -667,14 +666,12 @@
             "link": "https://www.youtube.com/watch?v=gs00JP9b8qQ",
             "percent": 100,
             "hz": 240
-=======
         },
         {
             "user": "Matteus",
             "link": "https://www.youtube.com/watch?v=fkLhSEid4ZM",
             "percent": 100,
             "hz": 360
->>>>>>> b7ed3bfcb454b329fbbea08801a0c1b206f9e140
         }
     ]
 }
