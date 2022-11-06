@@ -79,12 +79,6 @@
             "hz": 360
         },
         {
-            "user": "twelar",
-            "link": "https://youtu.be/GTs39mDju8A",
-            "percent": 71,
-            "hz": 240
-        },
-        {
             "user": "woi",
             "link": "https://youtu.be/lNvP_PbjZFw",
             "percent": 100,
@@ -226,6 +220,18 @@
        {
             "user": "Achlys",
             "link": "https://www.youtube.com/watch?v=X4ZXscRuzis",
+            "percent": 100,
+            "hz": 360
+       },
+       {
+            "user": "twelar",
+            "link": "https://youtu.be/CK3dDjRxcG0",
+            "percent": 100,
+            "hz": 240
+       },
+       {
+            "user": "Celcious",
+            "link": "https://www.youtube.com/watch?v=TnJrH31EePg",
             "percent": 100,
             "hz": 360
        }
