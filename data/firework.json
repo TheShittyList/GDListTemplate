@@ -1233,6 +1233,18 @@
             "link": "https://www.youtube.com/watch?v=tlf2zZlaoRw",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Jacob PL",
+            "link": "https://youtu.be/zSPSBbYSXa8",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Dijinald Cactus",
+            "link": "https://www.youtube.com/watch?v=3zBreXR16kk",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

@@ -330,6 +330,18 @@
             "link": "https://www.youtube.com/watch?v=8tq-9jYiHEE",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "ItzMira",
+            "link": "https://youtu.be/NXDbudpXh9E",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "snickles",
+            "link": "https://youtu.be/w0reNE8ntUI",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

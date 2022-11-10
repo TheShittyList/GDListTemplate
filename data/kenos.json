@@ -330,6 +330,12 @@
             "link": "https://www.youtube.com/watch?v=0Nky4UIuED0&t=4s",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "ClarkIsIDK",
+            "link": "https://www.youtube.com/watch?v=O9Ha49GZG5s",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

@@ -15,8 +15,8 @@
         },
         {
             "user": "vKaii",
-            "link": "https://www.youtube.com/watch?v=wT_xuKe-4VU",
-            "percent": 64,
+            "link": "https://www.youtube.com/watch?v=3uEgbKZGmL4&t=2s",
+            "percent": 100,
             "hz": 288
         },
         {
@@ -24,6 +24,12 @@
             "link": "https://youtu.be/A2xL8-tVL6M",
             "percent": 91,
             "hz": 240
+        },
+        {
+            "user": "LRub1x",
+            "link": "https://youtu.be/YNM2NPbYP0Y",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
