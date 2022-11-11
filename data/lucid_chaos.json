@@ -173,6 +173,12 @@
             "link": "https://www.youtube.com/watch?v=Q3R5t-8ftN4",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "ItzMira",
+            "link": "https://youtu.be/CDr4orUDK2o",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

@@ -60,6 +60,18 @@
             "link": "https://youtu.be/vnLZWajdUHY",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "itsmegadash",
+            "link": "https://www.youtube.com/watch?v=0T4XoVUDEvc",
+            "percent": 60,
+            "hz": 180
+        },
+        {
+            "user": "woi",
+            "link": "https://youtu.be/p_yF9oQjQJ8",
+            "percent": 64,
+            "hz": 360
         }
     ]
 }

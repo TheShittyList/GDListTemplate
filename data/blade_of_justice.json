@@ -241,6 +241,12 @@
             "link": "https://www.youtube.com/watch?v=Z9ruSCpKHIo",
             "percent": 69,
             "hz": 120
+        },
+        {
+            "user": "sodaman",
+            "link": "https://www.youtube.com/watch?v=6i3oI_miQkE",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

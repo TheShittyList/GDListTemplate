@@ -499,6 +499,18 @@
             "link": "https://youtu.be/t5IvkeQCG6Y",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "UnaiMJ",
+            "link": "https://www.youtube.com/watch?v=6emJ9YyugGA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "QuesitoGD",
+            "link": "https://www.youtube.com/watch?v=uuij3dWkk_0&t=1s",
+            "percent": 100,
+            "hz": 300
         }
     ]
 }
