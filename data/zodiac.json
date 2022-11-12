@@ -145,6 +145,12 @@
             "link": "https://youtu.be/baGJBf1oyZI",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "TheChaos",
+            "link": "https://www.youtube.com/watch?v=EvTd3-9e5qY",
+            "percent": 58,
+            "hz": 240
         }
     ]
 }

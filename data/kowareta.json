@@ -1143,6 +1143,30 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "Holombro",
+            "link": "https://youtu.be/JPTbpkxln-4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "foocii",
+            "link": "https://youtu.be/MRAVEHMbsoQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Dijinald Cactus",
+            "link": "https://www.youtube.com/watch?v=USvMM3A1sAs",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Drako",
+            "link": "https://youtu.be/jSU9dPdM0h4",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

@@ -15,5 +15,12 @@
     "verifier": "KylashTheKiller",
     "verification": "https://youtu.be/oG3rAfvnW5w",
     "percentToQualify": 59,
-    "records": []
+    "records": [
+        {
+            "user": "Dijinald Cactus",
+            "link": "https://www.youtube.com/watch?v=v87JgMwjUI0",
+            "percent": 73,
+            "hz": 120
+        }
+    ]
 }

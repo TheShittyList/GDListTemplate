@@ -319,6 +319,12 @@
             "link": "https://www.youtube.com/watch?v=eRDuH_1_NfM",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "GameOver",
+            "link": "https://youtu.be/mFW1qIW7j7A",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

@@ -7,5 +7,47 @@
     "verification": "https://youtu.be/rGFDwB571g8",
     "percentToQualify": 65,
     "records": [
+        {
+            "user": "Dandy Chiggins",
+            "link": "https://youtu.be/Ien0qtWzddc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "OneAlphaHelix",
+            "link": "https://youtu.be/v6Xw27T36sI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "LRub1x",
+            "link": "https://youtu.be/AtkhYOxuU8w",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "bnuuy",
+            "link": "https://youtu.be/t40phk-hElA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "KylashTheKiller",
+            "link": "https://youtu.be/0BVJuKM5eqs",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "FullyDiverse",
+            "link": "https://youtu.be/2sQf4wwZxgk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "hipo",
+            "link": "https://youtu.be/X4Vl_r2RSP0",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }

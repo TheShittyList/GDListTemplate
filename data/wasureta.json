@@ -511,6 +511,18 @@
             "link": "https://www.youtube.com/watch?v=uuij3dWkk_0&t=1s",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "foocii",
+            "link": "https://youtu.be/mj_D5pQrq14",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "natertot07",
+            "link": "https://youtu.be/-6IeFSC0TJ8",
+            "percent": 100,
+            "hz": 288
         }
     ]
 }

@@ -63,14 +63,20 @@
         },
         {
             "user": "itsmegadash",
-            "link": "https://www.youtube.com/watch?v=0T4XoVUDEvc",
-            "percent": 60,
+            "link": "https://youtu.be/-X1S9FjOl24",
+            "percent": 83,
             "hz": 180
         },
         {
             "user": "woi",
             "link": "https://youtu.be/p_yF9oQjQJ8",
             "percent": 64,
+            "hz": 360
+        },
+        {
+            "user": "Moment",
+            "link": "https://youtu.be/fXbCPy1vZOA",
+            "percent": 73,
             "hz": 360
         }
     ]
