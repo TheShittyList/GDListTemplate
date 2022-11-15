@@ -102,6 +102,12 @@
             "link": "https://www.youtube.com/watch?v=dTqbyg1cwpc",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "natertot07",
+            "link": "https://youtu.be/NPS4JmTwjGQ",
+            "percent": 100,
+            "hz": 288
         }
     ]
 }

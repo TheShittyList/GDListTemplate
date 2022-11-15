@@ -6,5 +6,12 @@
     "verifier": "iRaily",
     "verification": "https://youtu.be/OhrdEToo7b0",
     "percentToQualify": 61,
-    "records": []
+    "records": [
+        {
+            "user": "Dandy Chiggins",
+            "link": "https://youtu.be/qedItTLdl38",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

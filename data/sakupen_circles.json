@@ -777,8 +777,8 @@
         },
         {
             "user": "Aymie",
-            "link": "https://www.youtube.com/watch?v=Db6tRzaJx9k",
-            "percent": 57,
+            "link": "https://www.youtube.com/watch?v=RQZHxHED8_4",
+            "percent": 76,
             "hz": 360
         },
         {
@@ -802,6 +802,12 @@
         {
             "user": "sodaman",
             "link": "https://www.youtube.com/watch?v=1A4gB6iWJkc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "FullyDiverse",
+            "link": "https://youtu.be/_DO_8GvnnE4?t=111",
             "percent": 100,
             "hz": 360
         }
