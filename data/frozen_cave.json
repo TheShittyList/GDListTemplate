@@ -385,6 +385,12 @@
             "link": "https://www.youtube.com/watch?v=AInXmAzSyNI",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "StarXV",
+            "link": "https://youtu.be/WXVwKCa79oo?t=500",
+            "percent": 100,
+            "hz": 300
         }
     ]
 }
