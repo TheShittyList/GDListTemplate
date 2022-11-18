@@ -379,6 +379,12 @@
             "link": "https://youtu.be/WXVwKCa79oo?t=500",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "Delay",
+            "link": "https://www.youtube.com/watch?v=MJwBbIPh2h0",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

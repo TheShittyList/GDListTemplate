@@ -66,6 +66,18 @@
             "link": "https://youtu.be/7quXpjcIvnA",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "shekyus",
+            "link": "https://www.youtube.com/watch?v=fu5LpYlujYY&ab_channel=ShekyusGD",
+            "percent": 72,
+            "hz": 300
+        },
+        {
+            "user": "skeeb",
+            "link": "https://www.youtube.com/watch?v=Di9nGBgixuA",
+            "percent": 100,
+            "hz": 288
         }
     ]
 }

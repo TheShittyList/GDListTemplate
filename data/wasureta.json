@@ -532,8 +532,8 @@
         },
         {
             "user": "SuperThiago1234",
-            "link": "https://www.youtube.com/watch?v=MKNOGkv1aUM",
-            "percent": 90,
+            "link": "https://youtu.be/OplCULt0MXA",
+            "percent": 100,
             "hz": 360
         },
         {
@@ -541,6 +541,18 @@
             "link": "https://www.youtube.com/watch?v=yXrw4nGZpIU",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "patadas",
+            "link": "https://youtu.be/fsthorUQb6A",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "DeleteUser",
+            "link": "https://youtu.be/SMjYFAj4e3w",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

@@ -181,6 +181,13 @@
             "link": "https://www.youtube.com/watch?v=-q7jF2BGy9Y&ab_channel=Dr4QuiTo",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "AlphaBaaX",
+            "link": "https://youtu.be/5X7faUu_f64",
+            "percent": 82,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }

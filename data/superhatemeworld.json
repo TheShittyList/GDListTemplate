@@ -162,6 +162,18 @@
             "link": "https://www.youtube.com/watch?v=gaWpOLfYcPQ&t=1s",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "arielus05",
+            "link": "https://youtu.be/mu8GiYiVMdA",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "homegrowntag",
+            "link": "https://youtu.be/spMR9K_im7c",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
