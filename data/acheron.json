@@ -57,8 +57,8 @@
         },
         {
             "user": "vKaii",
-            "link": "https://www.youtube.com/watch?v=l4AeFuzy_2E",
-            "percent": 83,
+            "link": "https://www.youtube.com/watch?v=BjyRnrCev9w",
+            "percent": 100,
             "hz": 288
         },
         {
@@ -78,6 +78,24 @@
             "link": "https://www.youtube.com/watch?v=Di9nGBgixuA",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "xdgamer",
+            "link": "https://www.youtube.com/watch?v=uX3ctvSSoAg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "sketch",
+            "link": "https://www.youtube.com/watch?v=aETHT6hQPxU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kenos Song",
+            "link": "https://youtu.be/9rcsG3sjkNk",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

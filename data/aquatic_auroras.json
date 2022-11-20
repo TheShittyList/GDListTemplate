@@ -6,5 +6,12 @@
     "verifier": "Dandy Chiggins",
     "verification": "https://youtu.be/tEUfeGbBVKA",
     "percentToQualify": 57,
-    "records": []
+    "records": [
+        {
+        "user": "BrightBird",
+        "link": "https://youtu.be/NnKi_EKIpJA",
+        "percent": 100,
+        "hz": 288
+        }
+    ]
 }

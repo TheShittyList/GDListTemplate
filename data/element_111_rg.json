@@ -6,5 +6,12 @@
     "verifier": "ZerniasX",
     "verification": "https://youtu.be/R3kI8vmCEHk",
     "percentToQualify": 64,
-    "records": []
+    "records": [
+        {
+    "user": "BlackBird552",
+    "link": "https://www.youtube.com/watch?v=ETD9vd2qxgI&t=1s",
+    "percent": 73,
+    "hz": 360
+        }
+    ]
 }

@@ -78,6 +78,12 @@
             "link": "https://youtu.be/fXbCPy1vZOA",
             "percent": 73,
             "hz": 360
+        },
+        {
+            "user": "RAFFOX",
+            "link": "https://www.youtube.com/watch?v=IFHjg-fp2Pc",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
