@@ -182,6 +182,12 @@
             "percent": 82,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Saladishealthy",
+            "link": "https://www.youtube.com/watch?v=G92vs6WUHNA",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

@@ -150,6 +150,19 @@
             "link": "https://www.youtube.com/watch?v=5g5gUfVyimE",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Hasik",
+            "link": "https://youtu.be/qqAgcQanc_I",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "AzielGD",
+            "link": "https://youtu.be/2hatojWwxvg",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }

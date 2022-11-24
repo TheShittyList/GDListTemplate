@@ -553,6 +553,12 @@
             "link": "https://www.youtube.com/watch?v=bbLhnX1R4O0&ab_channel=dark",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Dino",
+            "link": "https://youtu.be/3Xe-WtL6woQ",
+            "percent": 76,
+            "hz": 360
         }
     ]
 }

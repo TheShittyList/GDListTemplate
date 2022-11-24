@@ -777,8 +777,8 @@
         },
         {
             "user": "Aymie",
-            "link": "https://www.youtube.com/watch?v=RQZHxHED8_4",
-            "percent": 76,
+            "link": "https://youtu.be/4_oZOUGR40A",
+            "percent": 100,
             "hz": 360
         },
         {
@@ -822,6 +822,12 @@
             "link": "https://www.youtube.com/watch?v=BYw-ikZ1PCQ",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Neltumn",
+            "link": "https://youtu.be/aXtMJjeg7XM",
+            "percent": 100,
+            "hz": 360
         }
     ]        
 }

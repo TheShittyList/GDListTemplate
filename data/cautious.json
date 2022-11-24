@@ -9,5 +9,12 @@
     "verifier": "Kiwi1938",
     "verification": "https://youtu.be/ROtwehyry9s",
     "percentToQualify": 65,
-    "records": []
+    "records": [
+        {
+            "user": "KasiaUwU",
+            "link": "https://youtu.be/CnkK_eCzJNs",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }

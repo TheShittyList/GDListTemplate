@@ -8,10 +8,16 @@
     "percentToQualify": 64,
     "records": [
         {
-    "user": "BlackBird552",
-    "link": "https://www.youtube.com/watch?v=ETD9vd2qxgI&t=1s",
-    "percent": 73,
-    "hz": 360
+            "user": "BlackBird552",
+            "link": "https://www.youtube.com/watch?v=ETD9vd2qxgI&t=1s",
+            "percent": 73,
+            "hz": 360
+        },
+        {
+            "user": "KasiaUwU",
+            "link": "https://youtu.be/n5as-fLISqc",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

@@ -6,5 +6,30 @@
     "verifier": "vKaii",
     "verification": "https://youtu.be/EsbLouSHi_w",
     "percentToQualify": 59,
-    "records": []
+    "records": [
+        {
+            "user": "HeitorCar",
+            "link": "https://www.youtube.com/watch?v=e0eO2VAlV2Y",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "AgiLityGMD",
+            "link": "https://youtu.be/FfDrS4-fl5Y",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Acacia",
+            "link": "https://youtu.be/VUNAYufq90g",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ZookieGD",
+            "link": "https://youtu.be/q6DGDDKex0E",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

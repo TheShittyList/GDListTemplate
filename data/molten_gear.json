@@ -138,6 +138,13 @@
             "link": "https://youtu.be/haPsTZdVjMs",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Cristonixx",
+            "link": "https://youtu.be/nzGCBTxgg48",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }
