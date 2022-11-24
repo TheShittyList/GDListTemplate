@@ -25,19 +25,19 @@
         "link": "https://youtube.com/channel/UC_iEmvCmkuJWqoRbGM49GOA"
     },
     {
-        "role": "helper",
-        "name": "KylashTheKiller",
-        "link": "https://www.youtube.com/c/KylashTheKiller"
-    },
-    {
-        "role": "helper",
+        "role": "admin",
         "name": "Ryoui",
         "link": "https://www.youtube.com/channel/UCbon_JIcGDqic5lJj3-8L-w"
     },
     {
+        "role": "admin",
+        "name": "Prometheus",
+        "link": "https://www.youtube.com/c/PrometheusAlt"
+    },
+    {
         "role": "helper",
-        "name": "Achlys",
-        "link": "https://www.youtube.com/channel/UCd7V5FKKTC01gAmaxqaK1Ug"
+        "name": "KylashTheKiller",
+        "link": "https://www.youtube.com/c/KylashTheKiller"
     },
     {
         "role": "helper",
@@ -48,11 +48,6 @@
         "role": "helper",
         "name": "ThinCrust",
         "link": "https://www.youtube.com/channel/UCW0SgOGd9y6yHk5buJ81JfQ"
-    },
-    {
-        "role": "helper",
-        "name": "Prometheus",
-        "link": "https://www.youtube.com/c/PrometheusAlt"
     },
     {
         "role": "trial",
