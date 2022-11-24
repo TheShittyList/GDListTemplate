@@ -1,81 +1,11 @@
 {
-    "id": 81103246,
+    "id": 82522238,
     "name": "Shitty Call Me Maybe",
-    "author": "Wavvy",
-    "creators": [
-        "Wavvy",
-        "zFice7"
-    ],
-    "verifier": "qb1",
-    "verification": "https://youtu.be/-yaOleR8Zos",
-    "percentToQualify": 60,
+    "author": "Deceit",
+    "creators": [],
+    "verifier": "asmallsock",
+    "verification": "https://youtu.be/LtLRFUQSLU0",
+    "percentToQualify": 66,
     "records": [
-        {
-            "user": "Dandy Chiggins",
-            "link": "https://youtu.be/n0-_yUvWBfQ",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "kacro",
-            "link": "https://www.youtube.com/watch?v=y01r1qJdT4M",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Elpepetaxio",
-            "link": "https://www.youtube.com/watch?v=jvV7a7iKsG8",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Riptide",
-            "link": "https://youtu.be/WFJKNphsKq4",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "KylashTheKiller",
-            "link": "https://youtu.be/POMBHjO7rNk",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "h4tecr1me.",
-            "link": "https://www.youtube.com/watch?v=dTnI37wZOSI",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Cuchara",
-            "link": "https://youtu.be/fvI77ENY5PU",
-            "percent": 100,
-            "hz": 180
-        },
-        {
-            "user": "WaveWarrior",
-            "link": "https://youtu.be/a5LFbllc3YY",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "AzielGD",
-            "link": "https://youtu.be/VhSO7YMZm5E",
-            "percent": 100,
-            "hz": 120,
-            "mobile": true
-        },
-        {
-            "user": "GD CrimsonKing22",
-            "link": "https://www.youtube.com/watch?v=rGfpLPTNxS8&t=5s",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "iRaily",
-            "link": "https://youtu.be/03cYExg2PKc",
-            "percent": 71,
-            "hz": 288
-        }
     ]
 }
