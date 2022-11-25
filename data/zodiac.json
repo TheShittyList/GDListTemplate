@@ -151,6 +151,12 @@
             "link": "https://www.youtube.com/watch?v=EvTd3-9e5qY",
             "percent": 58,
             "hz": 240
+        },
+        {
+            "user": "lonifer",
+            "link": "https://www.youtube.com/watch?v=eBygMWrvsoM&ab_channel=lonifer",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

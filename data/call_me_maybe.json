@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/LtLRFUQSLU0",
     "percentToQualify": 66,
     "records": [
+        {
+            "user": "Dandy Chiggins",
+            "link": "https://youtu.be/WWvN_2E7v30",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }

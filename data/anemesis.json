@@ -324,6 +324,13 @@
             "link": "https://youtu.be/3euFd6-BC6U",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "AzielGD",
+            "link": "https://youtu.be/t-do7QU_V6w",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }
