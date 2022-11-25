@@ -34,13 +34,19 @@ export default {
                             </button>
                         </td>
                     </tr>
-                </div>
+                </table>
             </div>
             <div class="level-container">
                 <div class="level" v-if="level">
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
-                    <iframe class="video" :src="embed(level.verification)" frameborder="0"></iframe>
+                    <div v-if="level.showcase" class="type-label-lg">
+                        <div id="selectbar">
+                            <div class="choice" @click="this.$el.querySelector('#videoframe').src=embed(level.showcase) ">Showcase</div>
+                            <div class="choice" @click="this.$el.querySelector('#videoframe').src=embed(level.verification)">Verification</div>
+                        </div>
+                    </div>
+                    <iframe class="video" id="videoframe" :src="embed(level.verification)" frameborder="0"></iframe>
                     <ul class="stats">
                         <li>
                             <div class="type-title-sm">Points when completed</div>

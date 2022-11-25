@@ -57,6 +57,21 @@
     grid-auto-rows: max-content;
     gap: 1rem;
 }
+#selectbar {
+    height:fit-content;
+    background-color: var(--color-primary);
+    color:var(--color-on-primary);
+    display:flexbox;
+    border-radius:10px;
+    width:fit-content;
+}
+#selectbar .choice{
+    display:inline-block;
+    padding:10px;
+}
+#selectbar .choice:hover{
+    cursor:pointer;
+}
 .page-list .level-container .level .video {
     aspect-ratio: 16/9;
 }
