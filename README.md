@@ -79,18 +79,20 @@ Can i submit Multiple levels on 1 video?
 ## List Admins:
 
 - TravelChimp
+- Prometheus
+- Ryoui
 
 ## Server Administrators:
+
+- Nolife
+- Ryoui
 
 ---
 
 ## List Helpers:
 
+- ThinCrust
 - KylashTheKiller
-- Achlys
-- homegrowntag
-- asmallsock
-- Ryoui
 
 ---
 
@@ -99,13 +101,14 @@ Can i submit Multiple levels on 1 video?
 - LBoke
 - frigusterio
 - Prometheus
-- Nolife
-- Ryoui
+- KylashTheKiller
+- Nico721GD
+- Silv
+- Pandaaa
 
 ---
 
 ## Repo Maintainers:
 
-- Electro
 - Prometheus
 - Emonadeo
