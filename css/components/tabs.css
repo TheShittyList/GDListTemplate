@@ -7,6 +7,7 @@
     cursor: pointer;
     font: inherit;
     padding: 1rem;
+    margin: 0;
     background-color: transparent;
     color: var(--color-on-background);
     border-bottom: 3px solid transparent;

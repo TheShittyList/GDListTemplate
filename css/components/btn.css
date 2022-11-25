@@ -3,6 +3,7 @@
     cursor: pointer;
     font: inherit;
     padding: 1rem;
+    margin: 0;
     background-color: var(--color-primary);
     color: var(--color-on-primary);
     border-radius: 0.5rem;
