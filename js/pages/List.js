@@ -1,17 +1,17 @@
-import { store } from '../main.js';
-import { embed } from '../util.js';
-import { score } from '../score.js';
-import { fetchEditors, fetchList } from '../content.js';
+import { store } from "../main.js";
+import { embed } from "../util.js";
+import { score } from "../score.js";
+import { fetchEditors, fetchList } from "../content.js";
 
-import Spinner from '../components/Spinner.js';
-import LevelAuthors from '../components/List/LevelAuthors.js';
+import Spinner from "../components/Spinner.js";
+import LevelAuthors from "../components/List/LevelAuthors.js";
 
 const roleIconMap = {
-    owner: 'crown',
-    admin: 'user-gear',
-    helper: 'user-shield',
-    dev: 'code',
-    trial: 'user-lock'
+    owner: "crown",
+    admin: "user-gear",
+    helper: "user-shield",
+    dev: "code",
+    trial: "user-lock",
 };
 
 export default {
@@ -40,13 +40,15 @@ export default {
                 <div class="level" v-if="level">
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
-                    <div v-if="level.showcase" class="type-label-lg">
-                        <div id="selectbar">
-                            <div class="choice" @click="this.$el.querySelector('#videoframe').src=embed(level.showcase) ">Showcase</div>
-                            <div class="choice" @click="this.$el.querySelector('#videoframe').src=embed(level.verification)">Verification</div>
-                        </div>
+                    <div v-if="level.showcase" class="tabs">
+                        <button class="tab" :class="{selected: toggledShowcase}" @click="toggledShowcase = true">
+                            <span class="type-label-lg">Showcase</span>
+                        </button>
+                        <button class="tab type-label-lg" :class="{selected: !toggledShowcase}" @click="toggledShowcase = false">
+                            <span class="type-label-lg">Verification</span>
+                        </button>
                     </div>
-                    <iframe class="video" id="videoframe" :src="embed(level.verification)" frameborder="0"></iframe>
+                    <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
                     <ul class="stats">
                         <li>
                             <div class="type-title-sm">Points when completed</div>
@@ -140,10 +142,22 @@ export default {
         errors: [],
         roleIconMap,
         store,
+        toggledShowcase: false,
     }),
     computed: {
         level() {
             return this.list[this.selected][0];
+        },
+        video() {
+            if (!this.level.showcase) {
+                return embed(this.level.verification);
+            }
+
+            return embed(
+                this.toggledShowcase
+                    ? this.level.showcase
+                    : this.level.verification
+            );
         },
     },
     async mounted() {
@@ -154,7 +168,7 @@ export default {
         // Error handling
         if (!this.list) {
             this.errors = [
-                'Failed to load list. Retry in a few minutes or notify list staff.',
+                "Failed to load list. Retry in a few minutes or notify list staff.",
             ];
         } else {
             this.errors.push(
@@ -162,10 +176,10 @@ export default {
                     .filter(([_, err]) => err)
                     .map(([_, err]) => {
                         return `Failed to load level. (${err}.json)`;
-                    }),
+                    })
             );
             if (!this.editors) {
-                this.errors.push('Failed to load list editors.');
+                this.errors.push("Failed to load list editors.");
             }
         }
 
