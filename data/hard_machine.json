@@ -12,7 +12,8 @@
     ],
     "verifier": "Prometheus",
     "verification": "https://youtu.be/qv6O_dC3ptc",
-    "percentToQualify": 53,
+    "showcase": "https://youtu.be/pk1jXtSZqYA",
+    "percentToQualify": 55,
     "records": [
         {
             "user": "biskit",
