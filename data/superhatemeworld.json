@@ -8,5 +8,17 @@
     "showcase": "https://youtu.be/DbG5vIWSSoE",
     "percentToQualify": 59,
     "records": [
+        {
+            "user": "Prometheus",
+            "link": "https://youtu.be/T9qIUhp-FqY",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Ionifer",
+            "link": "https://youtu.be/N67u1o5kzIY",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }

@@ -9,5 +9,11 @@
     "percentToQualify": 49,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "KasiaUwU",
+            "link": "https://youtu.be/N4GIE70lHig",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

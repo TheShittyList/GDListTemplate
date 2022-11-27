@@ -235,6 +235,12 @@
             "link": "https://youtu.be/iHAhG9Qiavo",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "MrSkunk",
+            "link": "https://www.youtube.com/watch?v=FlCihEDBrb8",
+            "percent": 66,
+            "hz": 360
         }
     ]
 }
