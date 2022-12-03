@@ -1,67 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "Bluestone",
-        "link": "https://www.youtube.com/channel/UCfCcFAvTLH-vqmFe93z9D3w"
-    },
-    {
-        "role": "owner",
-        "name": "Davine_007",
-        "link": "https://www.youtube.com/channel/UCdFZfQWXHkJkofMyorv0ccw"
-    },
-    {
-        "role": "owner",
-        "name": "JustCrust",
-        "link": "https://www.youtube.com/channel/UC_CKBjO9nk3yc46EsbO9bmw/videos"
-    },
-    {
-        "role": "owner",
-        "name": "Microwaveee",
-        "link": "https://www.youtube.com/channel/UC4BZvLEre3SrihXXL-eItWg"
+        "name": "List Owner",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "admin",
-        "name": "TravelChimp",
-        "link": "https://youtube.com/channel/UC_iEmvCmkuJWqoRbGM49GOA"
-    },
-    {
-        "role": "admin",
-        "name": "Ryoui",
-        "link": "https://www.youtube.com/channel/UCbon_JIcGDqic5lJj3-8L-w"
-    },
-    {
-        "role": "admin",
-        "name": "Prometheus",
-        "link": "https://www.youtube.com/c/PrometheusAlt"
+        "name": "List Admin",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "helper",
-        "name": "KylashTheKiller",
-        "link": "https://www.youtube.com/c/KylashTheKiller"
-    },
-    {
-        "role": "helper",
-        "name": "homegrowntag",
-        "link": "https://www.youtube.com/channel/UCtPsZ68MCked5rgimzzX7Hw"
-    },
-    {
-        "role": "helper",
-        "name": "ThinCrust",
-        "link": "https://www.youtube.com/channel/UCW0SgOGd9y6yHk5buJ81JfQ"
+        "name": "List Helper",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "trial",
-        "name": "snickles",
-        "link": "https://www.youtube.com/channel/UCkwR22BGmJU1CVPPBo7ES0A"
+        "name": "Trial List Helper",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "dev",
-        "name": "Prometheus",
-        "link": "https://www.youtube.com/c/PrometheusAlt"
-    },
-    {
-        "role": "dev",
-        "name": "Emonadeo",
-        "link": "https://github.com/Emonadeo"
+        "name": "List Coder",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
